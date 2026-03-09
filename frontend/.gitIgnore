@@ -19,9 +19,13 @@ npm-debug.log*
 
 # OS files
 .DS_Store
+**/.DS_Store
 Thumbs.db
 
 # Vite cache
 .vite/
 frontend/.vite/
 EOF
+
+backend/node_modules/
+frontend/node_modules/
